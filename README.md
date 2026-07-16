@@ -1,0 +1,1 @@
+Upload index.html, styles.css, script.js en de volledige map assets naar de hoofdmap van je GitHub-repository. Daarna Commit changes en zet Pages op main / (root).
